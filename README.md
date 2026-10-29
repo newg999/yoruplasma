@@ -30,7 +30,7 @@ los colores de Yoru. No necesita Yoru ni niri: es solo para Plasma.
 En una sesión de Plasma 6 (Fedora):
 
 ```sh
-git clone <este repo> ~/yoruplasma
+git clone https://github.com/newg999/yoruplasma.git ~/yoruplasma
 ~/yoruplasma/yoruplasma instalar
 ```
 
