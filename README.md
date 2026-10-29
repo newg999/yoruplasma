@@ -23,7 +23,7 @@ los colores de Yoru. No necesita Yoru ni niri: es solo para Plasma.
 - **Dock abajo**, siempre a la vista: iconos juntos, puntitos por ventana
 - **Colores** en temas (yoru, nord, catppuccin, gruvbox, rose-pine...)
 - **Ventanas** sin bordes, con minimizar, maximizar y cerrar
-- El escritorio sin iconos
+- El escritorio, el de Plasma de siempre: tus archivos y los widgets que pongas
 
 ## Instalar
 

@@ -12,8 +12,6 @@
 //    abajo, el dock de Yoru, siempre a la vista, con las apps que ya tuviera
 //    fijadas o, la primera vez, las de FIJADAS («yoruplasma» pone ahí el
 //    navegador, el terminal y los archivos que encuentre)
-//    y el escritorio sin iconos, como en niri (los archivos siguen en
-//    ~/Escritorio)
 //  API: https://develop.kde.org/docs/plasma/scripting/
 // ============================================================================
 
@@ -67,14 +65,6 @@ bandeja.writeConfig("hiddenItems", [
     "org.kde.plasma.networkmanagement", "org.kde.plasma.bluetooth",
     "org.kde.plasma.mediacontroller",                   // ya está la isla de música
 ].join(","));
-
-// ----------------------------------------------------------- Escritorio
-// Sin iconos: la vista de carpeta esconde todo lo que coincida con «*»
-for (const d of desktops()) {
-    d.currentConfigGroup = ["General"];
-    d.writeConfig("filterMode", 2);
-    d.writeConfig("filterPattern", "*");
-}
 
 // ----------------------------------------------------------------- Dock
 const dock = new Panel;
