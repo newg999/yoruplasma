@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [{ "Name": "Yoru" }],
+        "Category": "Multimedia",
+        "Description": "Lo que suena, como en la barra de Yoru: canción y anterior, play/pausa, siguiente",
+        "Icon": "audio-x-generic",
+        "Id": "org.yoru.musica",
+        "License": "GPL",
+        "Name": "Música (Yoru)",
+        "Version": "1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

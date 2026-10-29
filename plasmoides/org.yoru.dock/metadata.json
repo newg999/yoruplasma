@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [{ "Name": "Yoru" }],
+        "Category": "Windows and Tasks",
+        "Description": "Las apps como en el dock de Yoru: iconos juntos y puntitos por ventana",
+        "Icon": "preferences-system-windows",
+        "Id": "org.yoru.dock",
+        "License": "GPL",
+        "Name": "Dock (Yoru)",
+        "Version": "1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

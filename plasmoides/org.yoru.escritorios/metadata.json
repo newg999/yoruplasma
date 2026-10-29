@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [{ "Name": "Yoru" }],
+        "Category": "Windows and Tasks",
+        "Description": "Los escritorios como en la barra de Yoru: puntos, y una píldora el activo",
+        "Icon": "virtual-desktops",
+        "Id": "org.yoru.escritorios",
+        "License": "GPL",
+        "Name": "Escritorios (Yoru)",
+        "Version": "1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

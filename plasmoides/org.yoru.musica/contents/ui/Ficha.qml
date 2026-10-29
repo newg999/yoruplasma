@@ -1,0 +1,1 @@
+../../../org.yoru.estado/contents/ui/Ficha.qml

@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [{ "Name": "Yoru" }],
+        "Category": "Date and Time",
+        "Description": "La hora, la fecha y el tiempo, como en el centro de la barra de Yoru",
+        "Icon": "preferences-system-time",
+        "Id": "org.yoru.reloj",
+        "License": "GPL",
+        "Name": "Reloj y tiempo (Yoru)",
+        "Version": "1"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
